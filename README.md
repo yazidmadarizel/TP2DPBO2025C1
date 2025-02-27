@@ -14,14 +14,12 @@ Program terdiri dari tiga class utama yang memiliki hubungan inheritance (pewari
 2. **Aksesoris (Turunan dari PetShop)**
    * Mewarisi semua atribut dan metode PetShop
    * Atribut tambahan: jenis, bahan, warna
-   * Metode tambahan: get_jenis(), get_bahan(), get_warna()
-   * Override: get_column_headers(), get_data()
+   * Metode tambahan: get_jenis(), get_bahan(), get_warna(), get_column_headers(), get_data()
 
 3. **Baju (Turunan dari Aksesoris)**
    * Mewarisi semua atribut dan metode Aksesoris
    * Atribut tambahan: untuk, size, merk
-   * Metode tambahan: get_untuk(), get_size(), get_merk()
-   * Override: get_column_headers(), get_data()
+   * Metode tambahan: get_untuk(), get_size(), get_merk(), get_column_headers(), get_data()
 
 Program juga memiliki fungsi-fungsi pendukung seperti display_table() untuk menampilkan tabel, display_all_products() untuk menampilkan semua produk, get_next_id() untuk mendapatkan ID berikutnya, dan add_new_product() untuk menambahkan produk baru.
 
