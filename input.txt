@@ -1,9 +1,14 @@
+# Test Case untuk C++, Java, Python
+
+# TC1
 1
 2
 1
 Tempat Makan
 42000
 30
+
+# TC2
 2
 2
 Tempat Tidur
@@ -12,6 +17,8 @@ Tempat Tidur
 Furniture
 Busa
 Abu-abu
+
+# TC3
 2
 3
 Topi Kucing
