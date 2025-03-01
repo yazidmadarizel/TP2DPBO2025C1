@@ -60,4 +60,5 @@ Program juga memiliki fungsi-fungsi pendukung seperti display_table() untuk mena
 
 # Desain Diagram
 
-![Screenshot 2025-02-27 065158](https://github.com/user-attachments/assets/809139c5-76cd-46e9-8a7d-3fc05c75602b)
+![Screenshot 2025-03-01 132323](https://github.com/user-attachments/assets/933132c2-9a25-4dce-9789-0884ea71526e)
+
