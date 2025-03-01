@@ -1,0 +1,27 @@
+1
+2
+1
+Tempat Makan
+42000
+30
+2
+2
+Tempat Tidur
+125000
+5
+Furniture
+Busa
+Abu-abu
+2
+3
+Topi Kucing
+55000
+12
+Topi
+Kain
+Pink
+Kucing
+M
+CatHats
+1
+0
